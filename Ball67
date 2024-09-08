@@ -1,0 +1,210 @@
+{
+ "name": "Nop 01.09.67 ball67",
+ "author": "ball67",
+ "info": "DooKeeLa-Ontime ",
+ "url": "",
+ "image": "https://img5.pic.in.th/file/secure-sv1/445816790_.jpg",
+ "groups": [
+  {
+   "name": "กีฬา",
+   "image": "https://upload.wikimedia.org/wikipedia/th/2/28/Hilux_Revo_Thai_League_2021%E2%80%9322.png",
+   "stations": [
+{
+     "name": "True Ball Thai 1",
+     "image": "https://dookeela.live/uploads/1691371195.png",
+     "url": "https://dookeela.live/live-tv/trueballthai1",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    }, 
+    {
+     "name": "True Ball Thai 2",
+     "image": "https://dookeela.live/uploads/1691444816.png",
+     "url": "https://dookeela.live/live-tv/trueballthai2",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Ball Thai 3",
+     "image": "https://dookeela.live/uploads/1691444826.png",
+     "url": "https://dookeela.live/live-tv/trueballthai3",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Ball Thai 4",
+     "image": "https://dookeela.live/uploads/1707502708.png",
+     "url": "https://dookeela.live/live-tv/trueballthai4",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Ball Thai 5",
+     "image": "https://dookeela.live/uploads/1723643778.png",
+     "url": "https://dookeela.live/live-tv/trueballthai5",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Ball Thai 6",
+     "image": "https://dookeela.live/uploads/1723647539.png",
+     "url": "https://dookeela.live/live-tv/trueballthai6",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Ball Thai 7",
+     "image": "https://dookeela.live/uploads/1723648540.png",
+     "url": "https://dookeela.live/live-tv/trueballthai7",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Ball Thai 8",
+     "image": "https://dookeela.live/uploads/1723651252.png",
+     "url": "https://dookeela.live/live-tv/trueballthai8",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Ball Thai 9",
+     "image": "https://dookeela.live/uploads/1723660123.png",
+     "url": "https://dookeela.live/live-tv/trueballthai9",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Ball Thai 10",
+     "image": "https://dookeela.live/uploads/1723666843.png",
+     "url": "https://dookeela.live/live-tv/trueballthai10",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "SIAMSPORT 1",
+     "image": "https://dookeela.live/uploads/1709380646.png",
+     "url": "https://dookeela.live/live-tv/siamsport1",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+{
+     "name": "SIAMSPORT 2",
+     "image": "https://dookeela.live/uploads/1709380657.png",
+     "url": "https://dookeela.live/live-tv/siamsport2",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "SIAMSPORT 3",
+     "image": "https://dookeela.live/uploads/1709380667.png",
+     "url": "https://dookeela.live/live-tv/siamsport3",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "SIAMSPORT 4",
+     "image": "https://dookeela.live/uploads/1709380678.png",
+     "url": "https://dookeela.live/live-tv/siamsport4",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "T Sports 7",
+     "image": "https://dookeela.live/uploads/1673134276.png",
+     "url": "https://dookeela.live/live-tv/tsports7",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    ]
+    },
+    {
+     "name": "พรีเมียร์ลีก",
+     "image": "https://www.pngall.com/wp-content/uploads/4/Premier-League-Logo-PNG-Image.png",
+     "stations": [
+     {
+     "name": "True Premier Football 1",
+     "image": "https://dookeela.live/uploads/1664499665.png",
+     "url": "https://dookeela.live/live-tv/epl1_sd",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Premier Football 2",
+     "image": "https://dookeela.live/uploads/1664499673.png",
+     "url": "https://dookeela.live/live-tv/epl2",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Premier Football 3",
+     "image": "https://dookeela.live/uploads/1664499681.png",
+     "url": "https://dookeela.live/live-tv/epl3",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Premier Football 4",
+     "image": "https://dookeela.live/uploads/1664499692.png",
+     "url": "https://dookeela.live/live-tv/epl4",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Premier Football 5",
+     "image": "https://dookeela.live/uploads/1664499700.png",
+     "url": "https://dookeela.live/live-tv/epl5",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "True Tennis",
+     "image": "https://dookeela.live/uploads/1717257614.png",
+     "url": "https://dookeela.live/live-tv/truetennis",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "truesports 1",
+     "image": "https://dookeela.live/uploads/1664802455.png",
+     "url": "https://dookeela.live/live-tv/tsp1",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "truesports 2",
+     "image": "https://dookeela.live/uploads/1664499966.png",
+     "url": "https://dookeela.live/live-tv/tsp2",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "truesports 3",
+     "image": "https://dookeela.live/uploads/1664802480.png",
+     "url": "https://dookeela.live/live-tv/tsp3",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "truesports 4",
+     "image": "https://dookeela.live/uploads/1717396131.png",
+     "url": "https://dookeela.live/live-tv/tsp4",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "truesports 5",
+     "image": "https://dookeela.live/uploads/1664847910.png",
+     "url": "https://dookeela.live/live-tv/tsp5",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "truesports 7",
+     "image": "https://dookeela.live/uploads/1664847921.png",
+     "url": "https://dookeela.live/live-tv/tsp7",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+     }
+   ]
+  }
+ ]
+}
