@@ -5,14 +5,8 @@
 # Playlist Name: My Playlist by Akkradet
 # Last Update: 2022-10-11 08:55:46 UTC+07 ICT
 # =======================================================
-
 https://raw.githubusercontent.com/BeritaSelatan/Th/main/0867
 
-
-
-#EXTINF:-1 tvg-chno="1" tvg-id="Movie.tv" tvg-name="Movie TV BY นนท์" tvg-logo="https://image.roku.com/developer_channels/prod/f860efd1ad580032f075da58f121d67789ee667b862fdd30d951ed86aa63f6f1.png" group-title="EMBY TV",Movie TV BY นนท์
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://poid0020.trueddns.com:54337/channels.m3u
 
 #EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -469,6 +463,8 @@ https://scl.edge.grupoz.cl/music/live/music.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqT57Y7pcNvOFB5BtKXdD6iH6bHk4nms_74A&usqp=CAU" group-title="Music", Music Top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u
 
+
+ต่างประเทส......
 #EXTINF:-1 tvg-chno="43" tvg-id="QVC JP-KR" tvg-name="QVC JP-KR" tvg-logo="https://www.i-pic.info/i/cuxy329094.png" group-title="ต่างประเทศ",QVC JP-KR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
@@ -558,16 +554,8 @@ https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-chno="43" tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="http://m3u.at/data_file/tvlogo2/tennis.png" group-title="ต่างประเทศ",Tennis Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="43" tvg-id="FIGHT SPORTS มวย" tvg-name="FIGHT SPORTS มวย" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="ต่างประเทศ",FIGHT SPORTS มวย
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
-#EXTINF:-1 tvg-chno="43" tvg-id="Fight Network มวย" tvg-name="Fight Network มวย" tvg-logo="https://www.i-pic.info/i/PyWZ329085.png" group-title="ต่างประเทศ",Fight Network มวย
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-0 group-title="Movies&Series" tvg-id="Cinemax.th" tvg-logo="https://i.postimg.cc/sDdp34sc/cinemax.png",Cinemax TH
 #EXTVLCOPT:http-referrer=https://wacth.tv/
