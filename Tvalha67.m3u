@@ -6,8 +6,33 @@
 # Last Update: 2022-10-11 08:55:46 UTC+07 ICT
 # =======================================================
 https://raw.githubusercontent.com/BeritaSelatan/Th/main/0867
+https://raw.githubusercontent.com/BeritaSelatan/Th/main/Digital 67
+..........................................................................................................................
 
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/lU31HrjVOMsrvGp7AVNSvQTX1JleH8ntv-station-true-premier-football-5-1822.png" group-title="Premier league",True Premier Football HD 5
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com:443/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/w3dj8zkTukWC49JZSm1kzXqIa3lDljitv-station-true-premier-football-4-1821.png" group-title="Premier league",True Premier Football HD 4
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/Nm0iqmsKCLZBxlYShlSp702TjLUpEFkTrue_Premier_Football_HD_3.png" group-title="Premier league",True Premier Football HD 3
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/8cdpTAZzt5KNu2QcIpOSJbKsBZHCXfHa1819.png" group-title="Premier league",True Premier Football HD 2
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/FxKl1hWHCcaRmo9ZOIiE2HnUJygUQCNTrue_Premier_Football_HD_1.png" group-title="Premier league",True Premier Football HD 1
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="Premier league" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/liverpoolfctv.png" group-title="Premier league",LIVERPOOL FC TV
+http://dns.nexon.icu:80/0hd8d0chkb/gxo1gyq3g6/416871
+
+#EXTINF:-1 tvg-ID="" tvg-name="HK- NOW Sports PL 1 HD" tvg-logo="https://www.nowtv.now.com/media/s-logo/621_e.png" group-title="Premier league",1 PL Donknow
+http://playtv.my.id/play/dnnowpre3.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="HK- NOW Sports PL 1 HD" tvg-logo="https://www.nowtv.now.com/media/s-logo/621_e.png" group-title="Premier league",HK- NOW Sports PL 1 HD
+http://dns.nexon.icu:80/0hd8d0chkb/gxo1gyq3g6/1035754
 #EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
