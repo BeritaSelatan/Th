@@ -1328,7 +1328,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 http://210.210.155.37/dr9445/h/h21/index.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="มาเลย",Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" มาเลย="General",РТР Планета Азия
+#EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" มาเลย="General",РТР หลานม่า
 https://www.hlsplayer.net/embed?type=mp4&src=https://main.24playerhd.com:443/m3u8/222da444705fd1cf1175d3f0/222da444705fd1cf1175d3f0438.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/26/6M7t7J.jpg", NASA
