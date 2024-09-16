@@ -1,8 +1,1251 @@
+{
+ "name": "doolive4k_TV",
+ "author": "เจียว เจียว อัพวันที่ 09 สิงหาคม 2567",
+ "info": "(=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)",
+ "image": "https://doolive4k.tv/images/logo/yEwoYr6gip1xZ7PgPTYvo1raFCBMl8uGoatbat168Zeed_logo.png",
+ "groups": [
+  {
+   "name": "ช่อง True Sport",
+   "image": "https://doolive4k.tv/images/logo/yEwoYr6gip1xZ7PgPTYvo1raFCBMl8uGoatbat168Zeed_logo.png",
+   "stations": [
+    {
+     "name": "AIS PLAY 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/football-play-1/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "AIS PLAY 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/football-play-1/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "AIS PLAY 2",
+     "image": "https://api-soccer.thai-play.com/images/tv/4uJiK3DhZb82mr6lq8Cl4dv3oKiiZCKais2.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/football-play-2/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "AIS PLAY 3",
+     "image": "https://api-soccer.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/football-play-3/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "AIS PLAY 4",
+     "image": "https://api-soccer.thai-play.com/images/tv/pBivjaUbfo4dNnCbcyFpXPE1fL9YIV0ais4.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/football-play-4/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sports 1 Thailand",
+     "image": "https://api-soccer.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sports 3 Thailand",
+     "image": "https://api-soccer.thai-play.com/images/tv/dhYruZGT8FK0IhTPasplhSjV1hh1EqVtv-station-th-bein-sports-3-1079.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SPOTV 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/true-spotv-1/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SPOTV 2",
+     "image": "https://api-soccer.thai-play.com/images/tv/0RGV8VMgXBuGIyl2wEwkYWNpHDRpfk3spotv2.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/true-spotv-2/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Premier Football HD 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/FxKl1hWHCcaRmo9ZOIiE2HnUJygUQCNTrue_Premier_Football_HD_1.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Premier Football HD 2",
+     "image": "https://api-soccer.thai-play.com/images/tv/8cdpTAZzt5KNu2QcIpOSJbKsBZHCXfHa1819.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-2/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Premier Football HD 3",
+     "image": "https://api-soccer.thai-play.com/images/tv/Nm0iqmsKCLZBxlYShlSp702TjLUpEFkTrue_Premier_Football_HD_3.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-3/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Premier Football HD 4",
+     "image": "https://api-soccer.thai-play.com/images/tv/w3dj8zkTukWC49JZSm1kzXqIa3lDljitv-station-true-premier-football-4-1821.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-4/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Premier Football HD 5",
+     "image": "https://api-soccer.thai-play.com/images/tv/lU31HrjVOMsrvGp7AVNSvQTX1JleH8ntv-station-true-premier-football-5-1822.png",
+     "url": "https://dolive.thaim3u.com:443/doolive4k-tv/siamsport-5/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Sport 3",
+     "image": "https://api-soccer.thai-play.com/images/tv/iQTBiWXYkO8BhDkAkM4BOSEw2IQFRfltv-station-true-sport-3-1072.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-10/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Sport 5",
+     "image": "https://api-soccer.thai-play.com/images/tv/cOtTtxtRU37zX1GSYdsDl9CSUAJ0pkstv-station-true-sport-5-1074.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-11/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Sport 7",
+     "image": "https://api-soccer.thai-play.com/images/tv/huCgcxvqLVccZTiFE3KOicWmCB8v7VJtv-station-true-sport-7-1076.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-12/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Sport HD 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/zOBltAxdpaa8zT4UCfoDbkaWuRyHJ2Ctrue_sport_hd.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-8/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "True Sport HD 3",
+     "image": "https://api-soccer.thai-play.com/images/tv/G4JHj2E6chFdYDk7tGNDXaPCrdTQDXZtrue_sport_hd3.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-10/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    }
+   ]
+  },
+  {
+   "name": "ช่อง กีฬา",
+   "image": "https://doolive4k.tv/images/logo/yEwoYr6gip1xZ7PgPTYvo1raFCBMl8uGoatbat168Zeed_logo.png",
+   "stations": [
+    {
+     "name": "Arena Sport 1 Croatia",
+     "image": "https://api-soccer.thai-play.com/images/tv/tfuupgUGsXjxJEa7lVuQM5km0z3KiHwa314.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%201%20Croatia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arena Sport 1 Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/SI2HHQhevni9S0qZ4Pa3i7LDgj3gbKQrs_1.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%201%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arena sport 1 Slovakia",
+     "image": "https://api-soccer.thai-play.com/images/tv/Arena sport 1 (Svk).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%201%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arena Sport 2 Croatia",
+     "image": "https://api-soccer.thai-play.com/images/tv/YDFy9bdDojUquCMf46Y80HrG9Z61ZGSArena_Sport_2_Croatia.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%202%20Croatia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arena Sport 2 Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/0WgHAcy5Hqd62uA11OwSqRn4tF4B8Hcrs_2.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%202%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arena Sport 3 Croatia",
+     "image": "https://api-soccer.thai-play.com/images/tv/Arena Sport (Cro).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%203%20Croatia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arena Sport 3 Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/NmqFZhD6KLYQ7xWNZxTFCvcqs6SJ3Jxrs_3.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%203%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arena Sport 4 Croatia",
+     "image": "https://api-soccer.thai-play.com/images/tv/g7eZOmv7BfNlNjXSeX3uFfsGUvWFfUeArena_Sport_4_Croatia.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%204%20Croatia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arena Sport 4 Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/tTQxbN4EmXOCuHBdr0CRjnN5JndjZMtrs_4.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%204%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arena Sport 5 Croatia",
+     "image": "https://api-soccer.thai-play.com/images/tv/a7RyuPBd09LkrJYT26eF43uADV9R4d2Arena_Sport_5_Croatia.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%205%20Croatia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arena Sport 5 Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/PbWQTrwLjFgM5Ma5R3MUWg7IGeJ6Lyktv-station-rs-arena-sport-5-323.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%205%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arena Sport 6 Croatia",
+     "image": "https://api-soccer.thai-play.com/images/tv/FhHwStYIYcSx0wX4fkZnegWYrsxIASPArena_Sport_6_Croatia.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%206%20Croatia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arena Sport 6 Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/PbWQTrwLjFgM5Ma5R3MUWg7IGeJ6Lyktv-station-rs-arena-sport-5-323.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%206%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arena Sport 7 Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/PbWQTrwLjFgM5Ma5R3MUWg7IGeJ6Lyktv-station-rs-arena-sport-5-323.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%207%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arena Sport 8 Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/PbWQTrwLjFgM5Ma5R3MUWg7IGeJ6Lyktv-station-rs-arena-sport-5-323.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%208%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arena Sport 9 Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/PbWQTrwLjFgM5Ma5R3MUWg7IGeJ6Lyktv-station-rs-arena-sport-5-323.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arena%20Sport%209%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Arryadia Morocco",
+     "image": "https://api-soccer.thai-play.com/images/tv/DEwYtJyrcFm0BAlrnRJ3Hc5dXdrG8qytv-station-arryadia-1162.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Arryadia%20Morocco/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Astro Arena 1 MY",
+     "image": "https://api-soccer.thai-play.com/images/tv/lXVelhfklFJrLXWDlUTsmNPnwEXVJSMastro-arena.webp",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/astro-arena-1-my/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Astro Arena 2 MY",
+     "image": "https://api-soccer.thai-play.com/images/tv/zGdmcUJbDjjuvhss7tKBcZr7smVE05gastro-arena-2.webp",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/astro-arena-2-my/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Astro supersport 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/Astro supersport 1.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Astro supersport 1/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Astro supersport 2",
+     "image": "https://api-soccer.thai-play.com/images/tv/Astro supersport 2.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Astro supersport 2/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Astro supersport 3",
+     "image": "https://api-soccer.thai-play.com/images/tv/Astro supersport 3.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Astro supersport 3/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Astro supersport 4",
+     "image": "https://api-soccer.thai-play.com/images/tv/Astro supersport 4.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Astro supersport 4/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sport 1 Turkey",
+     "image": "https://api-soccer.thai-play.com/images/tv/beIN Sport (Tur).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sport%201%20Turkey/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sport 2 Turkey",
+     "image": "https://api-soccer.thai-play.com/images/tv/i2ZHH3oJddcrsaEF5xb9NnklKGpLve0tv-station-tu-bein-sports-2-641.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sport%202%20Turkey/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sport 3 Turkey",
+     "image": "https://api-soccer.thai-play.com/images/tv/dm91OqkHwuiDLg6hfo9T1gHTb4qLhPMbeIN_Sport_3_Turkey.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sport%203%20Turkey/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sport 4 Turkey",
+     "image": "https://api-soccer.thai-play.com/images/tv/RfZXmH1VcI8wjED88l83EmwYbAbUNPXbeIN_Sport_4_Turkey.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sport%204%20Turkey/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sport France",
+     "image": "https://api-soccer.thai-play.com/images/tv/2DgGghL9RGgfMUw1uwHYm5tdUAySdETa400.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sport%20France/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sport Max (Fra)",
+     "image": "https://api-soccer.thai-play.com/images/tv/wmfggDmkvhO7jas0XsUAmW0akWgDN5Za400.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sport%20Max%20(Fra)/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sport Max 1 Turkey",
+     "image": "https://api-soccer.thai-play.com/images/tv/jNhXLYIJIPQ17zgKyA78TZojArzLdZ5beIN_Sport_Max_(Tur).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sport%20Max%201%20Turkey/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sport Max 10 France",
+     "image": "https://api-soccer.thai-play.com/images/tv/RKRvxlSe7buta0Q7BNzqoaWUSBFn20ha773.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sport%20Max%2010%20France/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sport Max 2 Turkey",
+     "image": "https://api-soccer.thai-play.com/images/tv/jErGiNil4n35a58isuMeZJatHcD9h9Ztv-station-bein-sports-max-2-762.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sport%20Max%202%20Turkey/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sport Max 4 France",
+     "image": "https://api-soccer.thai-play.com/images/tv/g31q1fd7Dh8GR36lLm42JdLaZQoMor7beIN_Sport_Max_4_France.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sport%20Max%204%20France/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sport Max 5 France",
+     "image": "https://api-soccer.thai-play.com/images/tv/NNizIuB2h4AJfCYMgSyf3wOPEwX9Z8Itv-station-bein-sports-5-max-404.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sport%20Max%205%20France/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sport Max 6 France",
+     "image": "https://api-soccer.thai-play.com/images/tv/KnLWXyyVlKXBhCDYOvh1hjN3zTOJWera405.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sport%20Max%206%20France/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sport Max 7 France",
+     "image": "https://api-soccer.thai-play.com/images/tv/egupWlOnXQYyneYhG49pz6DXf2eIQNRbeIN_Sport_Max_7_France.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sport%20Max%207%20France/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sport Max 8 France",
+     "image": "https://api-soccer.thai-play.com/images/tv/DQMBAQ4JQrU1sXy8nLdiYgKtKiH8BBua771.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sport%20Max%208%20France/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sport Max 9 France",
+     "image": "https://api-soccer.thai-play.com/images/tv/94auSipuF46tU8SYXmdJoIBWPsT5DcItv-station-bein-sports-9-max-772.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sport%20Max%209%20France/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sports 1 English",
+     "image": "https://api-soccer.thai-play.com/images/tv/5JanZBzXCPxIzaZseLeSjUE1pKdNKCBa1166.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sports%201%20English/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sports 1 Premium",
+     "image": "https://api-soccer.thai-play.com/images/tv/5JanZBzXCPxIzaZseLeSjUE1pKdNKCBa1166.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sports%201%20Premium/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sports 2 English",
+     "image": "https://api-soccer.thai-play.com/images/tv/f1J22pVOYOIf5qw6fFZakLx9stJTKJla1167.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sports%202%20English/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sports 3 English",
+     "image": "https://api-soccer.thai-play.com/images/tv/roa6JagcAE6g3hsKPAGZF5BYthSOTBYa1168.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sports%203%20English/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sports 7 English",
+     "image": "https://api-soccer.thai-play.com/images/tv/sEvDLLTsHTG7xJg6ulgiAp0EeUazgoMbeIN_SPORTS7_DIGITAL_Mono.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sports%207%20English/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sports Premium 1 Qatar",
+     "image": "https://api-soccer.thai-play.com/images/tv/dxwfnwx3zKR6NhELNNaKFeSPnBKQExoa761.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN%20Sports%20Premium%201%20Qatar/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sports Xtra 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/SI2HHQhevni9S0qZ4Pa3i7LDgj3gbKQrs_1.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN Sports Xtra 1/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "beIN Sports Xtra 2",
+     "image": "https://api-soccer.thai-play.com/images/tv/SI2HHQhevni9S0qZ4Pa3i7LDgj3gbKQrs_1.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/beIN Sports Xtra 2/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Blue Sport 1 Switzerland",
+     "image": "https://api-soccer.thai-play.com/images/tv/lpIynJAQugSiFT5GsszDtsHzvRPKazbBlue_Sport_1_Switzerland.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Blue%20Sport%201%20Switzerland/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Blue Sport 2 Switzerland",
+     "image": "https://api-soccer.thai-play.com/images/tv/m6F5J8NRosBaq0NFd5QO6kEEXeedesmBlue_sport_2.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Blue%20Sport%202%20Switzerland/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "BT Sport 1 United Kingdom",
+     "image": "https://api-soccer.thai-play.com/images/tv/j2oudlzHKOUxNppfXbM7e3I0A0bBHawa97.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/BT%20Sport%201%20United%20Kingdom/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "BT Sport 2 UK",
+     "image": "https://api-soccer.thai-play.com/images/tv/078sCVuXymo23dTOMjHjAKvs6gzSC3qBT_Sport_2_UK.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/BT%20Sport%202%20UK/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "BT Sport 3 UK",
+     "image": "https://api-soccer.thai-play.com/images/tv/XNWeWEMIG5GTFVlY8f8BACfAf3gpMynBT_Sport_3_UK.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/BT%20Sport%203%20UK/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "BT Sport Extra 1 UK",
+     "image": "https://api-soccer.thai-play.com/images/tv/CiQrZ0fFIYfEy60fztY524Yh9d3ARE6BT_Sport_Extra_1_UK.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/BT%20Sport%20Extra%201%20UK/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "BT Sport Extra 2 UK",
+     "image": "https://api-soccer.thai-play.com/images/tv/4rBjVjutAeHBuOUqvhivRXwJPYD14L5BT_Sport_Extra_2_UK.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/BT%20Sport%20Extra%202%20UK/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "C More Sport 1 Finland",
+     "image": "https://api-soccer.thai-play.com/images/tv/jXSGF5pqyFwDRmBwsH1xFGArwXCABrZCMore_Sport_(Fin).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/C%20More%20Sport%201%20Finland/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Canal 11 (Por)",
+     "image": "https://api-soccer.thai-play.com/images/tv/8MyEHmmhXy9RKLtyDCuEUSoXfRERFmpa1787.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Canal%2011%20(Por)/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "CANAL Sport 3 Poland",
+     "image": "https://api-soccer.thai-play.com/images/tv/UEKeOOuaxmvrSpE5XxmOgqjJRZ3JewEcplus.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/canal-sport-3/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "CMore Fotboll",
+     "image": "https://api-soccer.thai-play.com/images/tv/CMore Fotboll (Swe).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/CMore%20Fotboll%20(Swe)/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "CMore Live",
+     "image": "https://api-soccer.thai-play.com/images/tv/CMore Live (Swe).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/CMore%20Live%20(Swe)/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Diema Sport 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/Diema sports 1.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Diema Sport 1/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Diema Sport 2",
+     "image": "https://api-soccer.thai-play.com/images/tv/Diema sports 2.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Diema Sport 2/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Diema Sport 2 Bulgaria",
+     "image": "https://api-soccer.thai-play.com/images/tv/Diema Sport 2.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Diema%20Sport%202%20Bulgaria/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Diema Sport 3",
+     "image": "https://api-soccer.thai-play.com/images/tv/Diema sports 3.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Diema Sport 3/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Diema Sport 3 Bulgaria",
+     "image": "https://api-soccer.thai-play.com/images/tv/AopcTE0QyFk5BZf6Mqqpo4ma1vMf208Diema_Sport_3.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Diema%20Sport%203%20Bulgaria/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Digi Sport 1 Hungary",
+     "image": "https://api-soccer.thai-play.com/images/tv/Digi Sport 1 (Hun).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Digi%20Sport%201%20Hungary/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Digi Sport 1 Romania",
+     "image": "https://api-soccer.thai-play.com/images/tv/Digi Sport 1 (Rom).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Digi%20Sport%201%20Romania/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Digi Sport 2 Hungary",
+     "image": "https://api-soccer.thai-play.com/images/tv/pzTu2RVG3b0OYKMUdgmqJxnM5HWzhRfDigi_Sport_2_Hungary.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Digi%20Sport%202%20Hungary/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Digi Sport 2 Romania",
+     "image": "https://api-soccer.thai-play.com/images/tv/OPoiH8Rrh7hJKGFx1mcYarik4yQVat3Digi_Sport_2_Romania.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Digi%20Sport%202%20Romania/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Digi Sport 3 Romania",
+     "image": "https://api-soccer.thai-play.com/images/tv/Digi Sport 3 (Rom).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Digi%20Sport%203%20Romania/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Digi Sport 4 Romania",
+     "image": "https://api-soccer.thai-play.com/images/tv/yPPAWE8lPCgRufYID6jbRjdmhF3ZKgNDigi_Sport_4_Romania.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Digi%20Sport%204%20Romania/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Eleven Sports 1 Belgium",
+     "image": "https://api-soccer.thai-play.com/images/tv/Eleven Sports (Bel).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Eleven%20Sports%201%20Belgium/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Eleven Sports 1 Poland",
+     "image": "https://api-soccer.thai-play.com/images/tv/ADTiY04TCRLKCDAdioEmrLsL7s2GnEWa631.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Eleven%20Sports%201%20Poland/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "ELEVEN SPORTS 1 Portugal",
+     "image": "https://api-soccer.thai-play.com/images/tv/Eleven Sports (Bel).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/ELEVEN SPORTS 1 Portugal/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Eleven Sports 2 Belgium",
+     "image": "https://api-soccer.thai-play.com/images/tv/ZfAEXITznI3cwTqa2fUptVJOLenfNxotv-station-be-eleven-sports-2-714.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Eleven%20Sports%202%20Belgium/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Eleven Sports 2 Poland",
+     "image": "https://api-soccer.thai-play.com/images/tv/Eleven Sports 2 (Pol).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Eleven%20Sports%202%20Poland/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "ELEVEN SPORTS 2 Portugal",
+     "image": "https://api-soccer.thai-play.com/images/tv/Eleven Sports (Bel).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/ELEVEN SPORTS 2 Portugal/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Eleven Sports 3 Poland",
+     "image": "https://api-soccer.thai-play.com/images/tv/Eleven Sports 3 (Pol).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Eleven%20Sports%203%20Poland/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "ELEVEN SPORTS 3 Portugal",
+     "image": "https://api-soccer.thai-play.com/images/tv/Eleven Sports (Bel).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/ELEVEN SPORTS 3 Portugal/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Eleven Sports 4 Poland",
+     "image": "https://api-soccer.thai-play.com/images/tv/6rXXkAriy3iYHruGs1n7L6MDVAvJSRTtv-station-eleven-sports-4-998.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Eleven%20Sports%204%20Poland/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "ELEVEN SPORTS 4 Portugal",
+     "image": "https://api-soccer.thai-play.com/images/tv/Eleven Sports (Bel).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/ELEVEN SPORTS 4 Portugal/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "ESPN 2 Netherlands",
+     "image": "https://api-soccer.thai-play.com/images/tv/wsYiOAOJlt1ORonBJilQmxVPK06al7nESPN_2_Netherlands.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/ESPN%202%20Netherlands/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "ESPN 2 USA",
+     "image": "https://api-soccer.thai-play.com/images/tv/iRIxv1eP8m1R5ILOuDJlhCXfQwqpeUQtv-station-nl-fox-sports-2-242.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/ESPN%202%20USA/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "ESPN Netherlands",
+     "image": "https://api-soccer.thai-play.com/images/tv/ykkC2mPAXj5Rm9D6KXxn2KyoygQpNTsa241.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/ESPN%20Netherlands/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "ESPN USA",
+     "image": "https://api-soccer.thai-play.com/images/tv/iRIxv1eP8m1R5ILOuDJlhCXfQwqpeUQtv-station-nl-fox-sports-2-242.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/ESPN%20USA/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Fox Soccer Plus USA",
+     "image": "https://api-soccer.thai-play.com/images/tv/aEJHQbA35TXzaXUyYeRITKY4UyH0aL8foxsoccerplug.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Fox%20Soccer%20Plus%20USA/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "fox sport 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/fox sport 1.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/fox sport 1/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "fox sport 2",
+     "image": "https://api-soccer.thai-play.com/images/tv/fox sport 2.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/fox sport 2/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "fox sport 3",
+     "image": "https://api-soccer.thai-play.com/images/tv/fox sport 3.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/fox sport 3/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "K-SPORT 1-Albania",
+     "image": "https://api-soccer.thai-play.com/images/tv/aGNrCqkAu21PEcMDMvz8LlrQis5KwZdK-SPORT_1-Albania.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/K-SPORT%201-Albania/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "LFC TV",
+     "image": "https://api-soccer.thai-play.com/images/tv/lfc.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/LFC%20TV/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Look Sport 2",
+     "image": "https://api-soccer.thai-play.com/images/tv/M80xejWIvZ4ATDKT9RzQY3Z4nS7woKZLook_Sport.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Look%20Sport%202/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "LookSport 3 Romania",
+     "image": "https://api-soccer.thai-play.com/images/tv/35nClY6L7FpOf4nfvo5ukYLEwjEkfjeLookSport_3_Romania.jpeg",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/LookSport%203%20Romania/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "MAX Sport 1 Bulgaria",
+     "image": "https://api-soccer.thai-play.com/images/tv/sZq6LIt5RTXBYRnzDiHydVKYwOVc8whMAX_Sport_1_Bulgaria.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/MAX%20Sport%201%20Bulgaria/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "MAX Sport 2 Bulgaria",
+     "image": "https://api-soccer.thai-play.com/images/tv/3Qa2TdN0RQqRZ8LfgvqHRIuokSS3SctMAX_Sport_2_Bulgaria.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/MAX%20Sport%202%20Bulgaria/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "MAX Sport 3 Bulgaria",
+     "image": "https://api-soccer.thai-play.com/images/tv/74ZeG7EFenhnZ4wrtKcpRxftBzP4CZ0MAX_Sport_3_Bulgaria.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/MAX%20Sport%203%20Bulgaria/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "MAX Sport 4 Bulgaria",
+     "image": "https://api-soccer.thai-play.com/images/tv/a6fbdDUPggq4kM3WoiYlyKUY3XssWRKtv-station-max-sport-4-1834.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/MAX%20Sport%204%20Bulgaria/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "MOVISTAR LaLiga Spain",
+     "image": "https://api-soccer.thai-play.com/images/tv/crqhjsJcFwGO7tedvNrih6CuIfe0UoYtv-station-movistar-laliga-udh-1840.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/MOVISTAR%20LaLiga%20Spain/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "mutv",
+     "image": "https://api-soccer.thai-play.com/images/tv/mutv.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/mutv/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Nova Sport 1 Czechia",
+     "image": "https://api-soccer.thai-play.com/images/tv/etCPMJwmXeRE2ZVx4WMJKLxdcHr5w2ytv-station-nova-sport-1-563.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Nova%20Sport%201%20Czechia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Nova Sport 2 Czechia",
+     "image": "https://api-soccer.thai-play.com/images/tv/Nova Sport 2 (Cze).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Nova%20Sport%202%20Czechia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Nova Sports Bulgaria",
+     "image": "https://api-soccer.thai-play.com/images/tv/U7nOdFAIr68zKCDGtZjGzmZX1yIxloEtv-station-nova-sport-1058.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Nova%20Sports%20Bulgaria/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Polsat Sport News Poland",
+     "image": "https://api-soccer.thai-play.com/images/tv/DQUfw97r69pDxbcJ3y8Zr3I12YQHwiHpolsat_sport_new.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Polsat%20Sport%20News%20Poland/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Setanta Sports Ukraine",
+     "image": "https://api-soccer.thai-play.com/images/tv/W55Bf241Blr15jUOrM9fICtDRG2io9ISetanta_Sports_(Ukr).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Setanta%20Sports%20Ukraine/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport germany 1.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%201/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport 1 Austria",
+     "image": "https://api-soccer.thai-play.com/images/tv/GlAsqSpu53aqHuR51dcy5o9yUeZia9Psky_sports_arena.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%201%20Austria/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport 10",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport germany 10.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%2010/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport 2",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport germany 2.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%202/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport 3",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport germany 3.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%203/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport 4",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport germany 4.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%204/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport 5",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport germany 5.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%205/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport 6",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport germany 6.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%206/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport 7",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport germany 7.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%207/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport 8",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport germany 8.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%208/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport 9",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport germany 9.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%209/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport Bundesliga 1 Germany",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport bundesliga 1.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%20Bundesliga%201%20Germany/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport Bundesliga 10 Germany",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport bundesliga 10.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%20Bundesliga%2010%20Germany/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport Bundesliga 2 Germany",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport bundesliga 2.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%20Bundesliga%202%20Germany/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport Bundesliga 3 Germany",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport bundesliga 3.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%20Bundesliga%203%20Germany/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport Bundesliga 4 Germany",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport bundesliga 4.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%20Bundesliga%204%20Germany/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport Bundesliga 5 Germany",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport bundesliga 5.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%20Bundesliga%205%20Germany/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport Bundesliga 6 Germany",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport bundesliga 6.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%20Bundesliga%206%20Germany/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport Bundesliga 7 Germany",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport bundesliga 7.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%20Bundesliga%207%20Germany/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport Bundesliga 8 Germany",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport bundesliga 8.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%20Bundesliga%208%20Germany/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport Bundesliga 9 Germany",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport bundesliga 9.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%20Bundesliga%209%20Germany/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport Bundesliga Germany",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport bundesliga 1.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%20Bundesliga%20Germany/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport Laliga",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport la liga.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%20Laliga/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sport Premiere League",
+     "image": "https://api-soccer.thai-play.com/images/tv/sky sport premier league.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sport%20Premiere%20League/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sports Football UK",
+     "image": "https://api-soccer.thai-play.com/images/tv/5sZmBcJIOBK2xeHiPQhHdPc6cgtGfjeSky_Sports_Football_UK.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sports%20Football%20UK/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sky Sports Main Event",
+     "image": "https://api-soccer.thai-play.com/images/tv/PgHISlTbzirGeVxAx5MbTiJeNLfbieia663.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sky%20Sports%20Main%20Event/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sport 4 Israel",
+     "image": "https://api-soccer.thai-play.com/images/tv/nOmijQ7QARATH3RkflKuhWj8lh9P9JCSport_4_Israel.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sport%204%20Israel/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sport Klub 1 Croatia",
+     "image": "https://api-soccer.thai-play.com/images/tv/SportKlub (Cro).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sport%20Klub%201%20Croatia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sport Klub 1 Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/NM0Yhudp39pw3m32FGoHcnGD3L7S9V0a340.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sport%20Klub%201%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sport Klub 1 Slovenia",
+     "image": "https://api-soccer.thai-play.com/images/tv/SportKlub (Slo).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sport%20Klub%201%20Slovenia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sport Klub 2 Croatia",
+     "image": "https://api-soccer.thai-play.com/images/tv/uZj8eyJ3ZVwu3ZSgLcQfnUoSOeWXBWHtv-station-cro-sportklub-2-326.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sport%20Klub%202%20Croatia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sport Klub 2 Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/UPoU6V8qrmatGM1MhAPz85lqdljsjextv-station-rs-sportklub-2-334.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sport%20Klub%202%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sport Klub 2 Slovenia",
+     "image": "https://api-soccer.thai-play.com/images/tv/dfMUEkHYxtnq0r7xtlYPUXMERKs1MNNtv-station-si-sportklub-2-342.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sport%20Klub%202%20Slovenia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sport Klub 3 Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/fhpr9DpKZC3vJgyGsIKgGpQIAsXAS18SportKlub_3_Serbia.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sport%20Klub%203%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sport Klub 3 Slovenia",
+     "image": "https://api-soccer.thai-play.com/images/tv/fNzYDN1eu6r0MkhRO32bPUTTfzhvqhVtv-station-si-sportklub-3-343.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sport%20Klub%203%20Slovenia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sport Klub 4 Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/fMfqjMgAEiHTvZXJo5QnyiYLHeJWVKDSport_Klub_4.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sport%20Klub%204%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sport Klub 4 Slovenia",
+     "image": "https://api-soccer.thai-play.com/images/tv/HDfpfPpU7iuLtHG3ogaRtfZzsbfxTfqtv-station-si-sportklub-4-344.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sport%20Klub%204%20Slovenia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sport Klub 5 Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/N4qcxg3tbgM0KQ8ijDYsScGctV0zp48Sport_Klub_5.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sport%20Klub%205%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sport Klub 6 Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/SxgAXbGRhh9hplA91Uqcb7858VqpDidtv-station-rs-sportklub-6-338.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sport%20Klub%206%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sport Klub HD Serbia",
+     "image": "https://api-soccer.thai-play.com/images/tv/NM0Yhudp39pw3m32FGoHcnGD3L7S9V0a340.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sport%20Klub%20HD%20Serbia/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SPORT TV 1 Portugal",
+     "image": "https://api-soccer.thai-play.com/images/tv/iYqHHo3uVU7DUV8DMmVO4wTkh3CRhJptv-station-pt-sport-tv-1-450.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SPORT%20TV%201%20Portugal/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SPORT TV 2 Portugal",
+     "image": "https://api-soccer.thai-play.com/images/tv/b8KHlAhwrs9mWEgWKio4jIpRz4FIroktv-station-pt-sport-tv-2-451.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SPORT%20TV%202%20Portugal/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SPORT TV 3 Portugal",
+     "image": "https://api-soccer.thai-play.com/images/tv/hkNVq0iMYezzlJSZrqcER00IcfX0R20a452.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SPORT%20TV%203%20Portugal/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SPORT TV 4 Portugal",
+     "image": "https://api-soccer.thai-play.com/images/tv/27ciPhVX9zapqwuq3ZNzRmYYncSQKPMa453.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SPORT%20TV%204%20Portugal/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SPORT TV 5 Portugal",
+     "image": "https://api-soccer.thai-play.com/images/tv/9xskHk02nFICupJ7E40kunITfhe090dtv-station-sport-tv-5-454.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SPORT%20TV%205%20Portugal/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SPORT TV 6 Portugal",
+     "image": "https://api-soccer.thai-play.com/images/tv/sport-tv-6.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SPORT%20TV%206%20Portugal/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Sportdigital Germany",
+     "image": "https://api-soccer.thai-play.com/images/tv/p0ZpYLzpDdZK4XB9TJLTTXBHgtbrNkbtv-station-sportdigital-167.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Sportdigital%20Germany/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SPORTV 2 Brazil",
+     "image": "https://api-soccer.thai-play.com/images/tv/pDWomZdQ9QmJ0UCb5U47Mhmg05HxSTVtv-station-sportv-2-1240.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SPORTV%202%20Brazil/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SPORTV 3 Brazil",
+     "image": "https://api-soccer.thai-play.com/images/tv/2WXGqedjrE2mKMQ18Xi4X82xa4pyi62a1242.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SPORTV%203%20Brazil/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SPORTV Brazil",
+     "image": "https://api-soccer.thai-play.com/images/tv/psmnS9og1nE6iP4n6AtdUysFIiVxo9mtv-station-sportv-1239.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SPORTV%20Brazil/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SuperSport 2 Albania",
+     "image": "https://api-soccer.thai-play.com/images/tv/Wy7kZruJLv6YvuB5g5ObU89tZEMOSFsSuperSport_2_Albania.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SuperSport%202%20Albania/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SuperSport 3 Albania",
+     "image": "https://api-soccer.thai-play.com/images/tv/EiEYvTl7acThwZCT7lp8N3nDy7zZekWSuperSport_3_Albania.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SuperSport%203%20Albania/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SuperSport 3 Albania",
+     "image": "https://api-soccer.thai-play.com/images/tv/0m6bKSjnm3Yx9XjLd0j1hscYHFMJuGstv-station-astro-supersport-3-255.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SuperSport%203%20Alabama/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SuperSport 4 Albania",
+     "image": "https://api-soccer.thai-play.com/images/tv/Sj9qAgAcHv3qWNd27Qv7HyeWwAqeTgISuperSport_4_Albania.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SuperSport%204%20Albania/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SuperSport 5 Albania",
+     "image": "https://api-soccer.thai-play.com/images/tv/1LDkIXzpiB9AspwzfPqU4k3Z41WH15CSuperSport_5_Albania.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SuperSport%205%20Albania/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SuperSport Variety 3",
+     "image": "https://api-soccer.thai-play.com/images/tv/3QQHsOeIjFysQH41SqCkqhXL6whOgDCa294.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SuperSport%20Variety%203/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "SuperSport Variety 4",
+     "image": "https://api-soccer.thai-play.com/images/tv/3QQHsOeIjFysQH41SqCkqhXL6whOgDCa294.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/SuperSport%20Variety%204/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Telekom Sport 1 Romania",
+     "image": "https://api-soccer.thai-play.com/images/tv/4qJs1eYH24A9876NmhDZe1kKpj6PLzFTelekom_Sport_1_Romania.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Telekom%20Sport%201%20Romania/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Telekom Sport 2 Romania",
+     "image": "https://api-soccer.thai-play.com/images/tv/vfjo62bQiSvsepLZ0iWn55Re2jh4rmHTelekom_Sport_2_Romania.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Telekom%20Sport%202%20Romania/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Telekom Sport 3 Romania",
+     "image": "https://api-soccer.thai-play.com/images/tv/sJ9KShMD2OS5Txccfm5l6jgmWVRbWb8Telekom_Sport_3_Romania.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Telekom%20Sport%203%20Romania/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Telekom Sport 4 Romania",
+     "image": "https://api-soccer.thai-play.com/images/tv/moEmGWCyhMgUlCUyTdPWq8o1lc522fpTelekom_Sport_4_Romania.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Telekom%20Sport%204%20Romania/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Tivibu Spor 2 Turkey",
+     "image": "https://api-soccer.thai-play.com/images/tv/cI9fm9HQQcN33aqahRolDLMIWejDpboTivibu_Spor_2_Turkey.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Tivibu%20Spor%202%20Turkey/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "Tivibu Spor 3 Turkey",
+     "image": "https://api-soccer.thai-play.com/images/tv/1aLGwkhJzEDb90sj498cqPP6Hjp4n5XTivibu_Spor_3_Turkey.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/Tivibu%20Spor%203%20Turkey/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "TNT Sports Argentina",
+     "image": "https://api-soccer.thai-play.com/images/tv/djAQTIRLDJ1VLKMaDdqDhLZGm64Ez2ETNT_Sports_Argentina.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/TNT%20Sports%20Argentina/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "TRT Spor",
+     "image": "https://api-soccer.thai-play.com/images/tv/LSJeNLd48v0XImGRHOvkSnEkZcuwmrwa645.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/TRT%20Spor/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "TUDN Mexico",
+     "image": "https://api-soccer.thai-play.com/images/tv/HSYihNJzWD0vPEfpjbGZfdagEhypvYLtv-station-tdn-945.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/TUDN%20Mexico/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "TV2 Sport Denmark",
+     "image": "https://api-soccer.thai-play.com/images/tv/TV2 Sport (Den).png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/TV2%20Sport%20Denmark/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "TV2 Sport Premium",
+     "image": "https://api-soccer.thai-play.com/images/tv/TV2 Sport Premium.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/TV2%20Sport%20Premium/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "TV3 Max Denmark",
+     "image": "https://api-soccer.thai-play.com/images/tv/i9EryzeXIO4r8LOz9F6I7eOQY3rHzq3TV3_Max_Denmark.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/TV3%20Max%20Denmark/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "TV3 Sport Denmark",
+     "image": "https://api-soccer.thai-play.com/images/tv/jLWVnYMRPZyCgfIIZd2XLSj65ctcbdXTV3_Sport_Denmark.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/TV3%20Sport%20Denmark/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "TyC Sports",
+     "image": "https://api-soccer.thai-play.com/images/tv/D3LjG763ebuLepCBEptVnBBUHcRiHhETyC_Sports.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/TyC%20Sports/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "vtv6",
+     "image": "https://api-soccer.thai-play.com/images/tv/vtv6.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/vtv6/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "vtv7",
+     "image": "https://api-soccer.thai-play.com/images/tv/vtv7.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/vtv7/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "vtv8",
+     "image": "https://api-soccer.thai-play.com/images/tv/vtv8.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/vtv8/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "vtv9",
+     "image": "https://api-soccer.thai-play.com/images/tv/vtv9.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/vtv9/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "vtvplus",
+     "image": "https://api-soccer.thai-play.com/images/tv/DY6OIVyaIHdbLM5R1pLLcRr3GnT1ZYutv-station-vtv-plus-uy-2475.png",
+     "url": "https://switch.thaim3u.com/doolive4k-tv/vtvplus/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "YOUTUBE 1",
+     "image": "https://api-soccer.thai-play.com/images/tv/I23T11t1hYQcZ4lOgFSst97TGCl0A6Wtring1.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/youtube-1/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "YOUTUBE 2",
+     "image": "https://api-soccer.thai-play.com/images/tv/s5HoWYB0Fyer79qyTvFl2IWzw4hrUS2tring2.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/youtube-2/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    },
+    {
+     "name": "YOUTUBE 3",
+     "image": "https://api-soccer.thai-play.com/images/tv/jJhupsgkStFSyrTdSM2xyfmbOwCdcuKtring3.png",
+     "url": "https://dolive.thaim3u.com/doolive4k-tv/youtube-3/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"   ]
+  },
+  {
+   "name": "ช่อง ดิจิตอล",
+   "image": "https://doolive4k.tv/images/logo/yEwoYr6gip1xZ7PgPTYvo1raFCBMl8uGoatbat168Zeed_logo.png",
+   "stations": [
+    {
+     "name": "PPTV",
+     "image": "https://api-soccer.thai-play.com/images/tv/Ln5PwGKqiu6OJnZXHSnbGxHxFtmcowCtv-station-pptv-hd-36-1593.png",
+     "url": "https://oral.thaim3u.com/doolive4k-tv/pptv_1080p/playlist.m3u8",
+     "referer": "https://doolive4k.tv/"
+    }
+   ]
+  }
+ ]
+}
+
+
+
 "https://dookeela.live/uploads/1723643778.png",
      "url": "https://dookeela.live/live-tv/trueballthai5",
      "referer": "https://dookeela.live/",
      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
+
+
+
+
+
+
+
+
+
+
     {
      "name": "True Ball Thai 6",
      "image": "https://dookeela.live/uploads/1723647539.png",
