@@ -7,6 +7,121 @@
 # =======================================================
 
 ..........................................................................................................................
+INF:-1 tvg-chno="303" ch-number="333"  tvg-name="True PremierFootball 3"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 3
+https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="304" ch-number="334"  tvg-name="True PremierFootball 4"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 4 
+https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="305" ch-number="335"  tvg-name="True PremierFootball 5"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 5 
+https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1671966260.png" group-title="Dtv ipThai",MCOT HD
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/mcothd/playlist.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/o2-sport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1683394005.png" group-title="Dtv ipThai",one31
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/one31/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499074.png" group-title="Dtv ipThai",PPTV
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/pptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1685812254.png" group-title="Dtv ipThai",ช่อง 3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/ch3hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664574997.png" group-title="Dtv ipThai",ช่อง 5
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/ch5hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1688059473.png" group-title="Dtv ipThai",ช่อง 7
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/ch7hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf1.jpg" group-title="Dtv ipThai" , True Premier Football HD1 (TPF1)
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/tpf1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf2.jpg" group-title="Dtv ipThai" , True Premier Football HD2 (Tpf2)
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/tpf2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf3.jpg" group-title="Dtv ipThai" , True Premier Football HD3 (TPF3)
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf4.jpg" group-title="Dtv ipThai" , True Premier Football HD4
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf5.jpg" group-title="Dtv ipThai" , True Premier Football HD5
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport1.jpg" group-title="Dtv ipThai" , True Sport HD 1
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/truesporthd1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport2.jpg" group-title="Dtv ipThai" ,ช่อง True sport hd 2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/truesporthd2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport3.jpg" group-title="Dtv ipThai" ,ช่อง True Sport HD 3
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/truesporthd3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport5.jpg" group-title="Dtv ipThai" ,ช่อง : Truesport 5
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/truesportsd5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport7.jpg" group-title="Dtv ipThai" ,ช่อง : Truesport 7
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/truesportsd7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bein1.jpg" group-title="Dtv ipThai" ,ช่อง : beinsport1
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/bein1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bein3.jpg" group-title="Dtv ipThai" , bein sport 3
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/bein3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/pptv.jpg" group-title="Dtv ipThai" ,ช่อง : pptv hd 36
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/pptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sport-tv-1.jpg" group-title="Dtv ipThai" , Sport TV 1
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sport-tv-2.jpg" group-title="Dtv ipThai" ,ช่อง : Sport TV 2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sport-tv-3.jpg" group-title="Dtv ipThai" , Sport TV 3
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sport-tv-4.jpg" group-title="Dtv ipThai" , Sport TV 4
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sport-tv-5.jpg" group-title="Dtv ipThai" , Sport TV 5
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/arenasport1.jpg" group-title="Dtv ipThai" , ArenaSport1
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/arenasport1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/arenasport2.jpg" group-title="Dtv ipThai" , ArenaSport2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/arenasport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/arenasport3.jpg" group-title="Dtv ipThai" ,  ArenaSport3
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/arenasport3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/arenasport4.jpg" group-title="Dtv ipThai" ,  ArenaSport4
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/arenasport4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sportv.jpg" group-title="Dtv ipThai" , SPOTV
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/spotv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/sportv2.jpg" group-title="Dtv ipThai" , Spotv2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/spotv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bt-sport-1.jpg" group-title="Dtv ipThai" , BT Sport1
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/btsport1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bt-sport-2.jpg" group-title="Dtv ipThai" , BT Sport2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/btsport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bt-sport-3.jpg" group-title="Dtv ipThai" , BT Sport3
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/btsport3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/motorvision.jpg" group-title="Dtv ipThai" , Motorvision
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/motorvision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/nbatv.jpg" group-title="Dtv ipThai" , NBA TV
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://cdnsv1.bunnycdncloud.com/dooball2you/nbatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/lU31HrjVOMsrvGp7AVNSvQTX1JleH8ntv-station-true-premier-football-5-1822.png" group-title="Premier league",True Premier Football HD 5
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
