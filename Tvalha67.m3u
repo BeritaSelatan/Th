@@ -7,7 +7,166 @@
 # =======================================================
 
 ..........................................................................................................................
-INF:-1 tvg-chno="303" ch-number="333"  tvg-name="True PremierFootball 3"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 3
+
+https://hlsp2p.xyz/view/ccd0bb68-93d2-5e0f-b78b-37d243dc13d9.m3u8?vhost=streaming-main.24playerhd.com
+
+#EXTINF:-1 tvg-chno="33" ch-number="3" tvg-id="3 HD.th" tvg-name="3 HD"  tvg-logo="https://iptv36.vercel.app/logo/ch3.png"group-title="Dtv ipThai",3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+
+#EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="TV5 HD.th" tvg-name="5HD"  tvg-logo="https://iptv36.vercel.app/logo/tv5.png"group-title="Dtv ipThai",5HD
+https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="35" ch-number="35" tvg-id="CH7 HD.th" tvg-name="7 HD"  tvg-logo="https://iptv36.vercel.app/logo/ch7.png"group-title="Dtv ipThai",7 HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
+
+#EXTINF:-1 tvg-chno="27" ch-number="27" tvg-id="CH8.th" tvg-name="ช่อง 8"  tvg-logo="https://iptv36.vercel.app/logo/ch8.png"group-title="Dtv ipThai", 8
+http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="30" ch-number="30" tvg-id="MCOT HD.th" tvg-name="MCOT"  tvg-logo="https://iptv36.vercel.app/logo/mcot.png"group-title="Dtv ipThai",MCOT
+https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="5"ch-number="5" tvg-id="iptv36.tv5 HD." group-title="Dtv ipThai" tvg-logo="https://iptv36.vercel.app/logo/tv5.png",TV5 FHD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-chno="6" ch-number="6"tvg-id="iptv36.PPTV HD." group-title="Dtv ipThai" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+#EXTINF:-1 tvg-chno="34"ch-number="34" tvg-id="iptv36.amarin HD." group-title="Dtv ipThai" tvg-logo="https://iptv36.vercel.app/logo/amarin.png",Amarin TV FHD
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+#EXTINF:-1 tvg-chno="32" ch-number="32"tvg-id="iptv36.thairath HD." group-title="Dtv ipThai" tvg-logo="https://iptv36.vercel.app/logo/thairath.png",Thairath TV FHD
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+
+
+
+#EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT.th" tvg-name="NBT"  tvg-logo="https://iptv36.vercel.app/logo/nbt.png"group-title="Dtv ipThai",NBT
+https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="3" ch-number="3" tvg-id="ThaiPBS.th" tvg-name="TPBS HD"  tvg-logo="https://iptv36.vercel.app/logo/thaipbs.png"group-title="Dtv ipThai",TPBS HD
+https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="16" ch-number="16" tvg-id="TNN16.th" tvg-name="TNN16"  tvg-logo="https://iptv36.vercel.app/logo/tnn16.png"group-title="Dtv ipThai",TNN16
+https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="18" ch-number="18" tvg-id="JKN 18.th" tvg-name="JKN18"  tvg-logo="https://iptv36.vercel.app/logo/jkn18.png"group-title="Dtv ipThai",JKN18
+https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="22" ch-number="22" tvg-id="Nation TV.th" tvg-name="NATION"  tvg-logo="https://iptv36.vercel.app/logo/nation.png"group-title="Dtv ipThai",NATION
+http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="PPTV HD.th" tvg-name="PPTV"  tvg-logo="https://iptv36.vercel.app/logo/pptv.png"group-title="Dtv ipThai",PPTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
+#EXTINF:-1 tvg-chno="32" ch-number="32" tvg-id="Thairath TV.th" tvg-name="THAIRATH"  tvg-logo="https://iptv36.vercel.app/logo/thairath.png"group-title="Dtv ipThai",THAIRATH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 tvg-chno="34" ch-number="34" tvg-id="AmarinTV HD.th" tvg-name="AMARIN"  tvg-logo="https://iptv36.vercel.app/logo/amarin.png"group-title="Dtv ipThai",AMARIN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+
+#EXTINF:-1 tvg-chno="29" ch-number="29" tvg-id="Mono 29.th" tvg-name="MONO"  tvg-logo="https://iptv36.vercel.app/logo/mono29.png"group-title="Dtv ipThai",MONO
+https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8
+
+#EXTINF:-1 tvg-chno="24" ch-number="24" tvg-id="True4U.th" tvg-name="TRUE24"  tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/125_y_9yqQrmCd6GNcgesAxhFnKWpwRaUiODEu.png"group-title="Dtv ipThai",TRUE24
+http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="25" ch-number="25" tvg-id="GMM 25.th" tvg-name="GMM25"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png"group-title="Dtv ipThai",GMM25
+http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE31 HD.th" tvg-name="ONE"  tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png"group-title="Dtv ipThai",ONE
+http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
+EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-gmmone.png"group-title="Dtv ipThai",ONE HD 31
+http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="23" ch-number="23" tvg-id="Workpoint.th" tvg-name="WORKPOINT"  tvg-logo="https://iptv36.vercel.app/logo/workpoint.png"group-title="Dtv ipThai",WORKPOINT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
+
+
+#EXTINF:-1 tvg-chno="4" ch-number="4" tvg-id="ALTV.th" tvg-name="ALTV4"  tvg-logo="https://www.i-pic.info/i/4Bol643617.png"group-title="Dtv ipThai",ALTV4
+https://edge6a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="76" ch-number="4" tvg-id="ALTV.th" tvg-name="NEWS1"  tvg-logo="https://news1live.com/images/social-share-logo.png"group-title="Dtv ipThai",NEWS1
+https://edge6a.v2h-cdn.com/news1/news1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="77" ch-number="4" tvg-id="ALTV.th" tvg-name="TOPNEW HD"  tvg-logo="https://i.postimg.cc/TwwQXPFc/TOPNEW.jpg"group-title="Dtv ipThai",TOPNEW HD
+https://live.topnews.co.th/hls/topnews_720.m3u8
+
+
+#EXTINF:-1 tvg-chno="8" ch-number="8" tvg-id="TVB Thai.th" tvg-name="TVB Thai"  tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/89_y_x5ZRi3AUV0bIdqSw1OyMfhTC6GoDjNYz.png"group-title="Dtv ipThai",TVB Thai
+https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="10" ch-number="10" tvg-id="TPTV.th" tvg-name="TPTV"  tvg-logo="https://i.postimg.cc/gJz8LvpC/TPTV.jpg"group-title="Dtv ipThai",TPTV
+https://edge6a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="7" ch-number="7"  tvg-name="TSPORT"  tvg-logo="https://iptv36.vercel.app/logo/tsports.png"group-title="Dtv ipThai",TSPORT
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Dtv ipThai",Fashion TV
+https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
+
+#EXTINF:-1  tvg-name="Moive FC" tvg-logo="https://i.postimg.cc/4xbGKRZ6/MFC.jpg" group-title="Dtv ipThai",Moive FC
+http://210.210.155.66/h/h194/index.m3u8
+
+#EXTINF:-1  tvg-name="Channel 8 " tvg-logo="https://iptv36.vercel.app/logo/ch8.png"group-title="Dtv ipThai" ,Channel 8
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="28" ch-number="28" tvg-id="Boomerang" tvg-name="Boomerang"  tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/173_y_eWScN8UFrhVBEbdlOpns4ki9at53z7wT.png",Boomerang
+https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png"group-title="Dtv ipThai",CMC Music
+https://cmc-ono.amagi.tv/amRdirect/device%5Bdid%5D=%7BPSID%7D&us_privacy=1%2D%2D%2D&coppa=%7BCOPPA%7D&uid=1he0cenp3-ahib-sl-0gn9-o12eppsod2n/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png"group-title="Dtv ipThai",V2BEAT TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="215" tvg-logo="https://img5.pic.in.th/file/secure-sv1/a61c1185810544a4ca35493a42549f33.png" group-title="Dtv ipThai",น้องหมูเด้ง
+https://live-stream.zoodio.live/channel21-hippo/stream.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-name="BBC America East"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr5Jicw5gz4pMZbNuSmCbY6meWyz-Jxz8bvF5CyGhJkN06DctyfNwFu5y0&s=10"group-title="Dtv ipThai",BBC America
+https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="104" ch-number="104"  tvg-name="France 24"  tvg-logo="https://i.postimg.cc/zftjQpp9/F24.jpg"group-title="Dtv ipThai",France 24)
+https://edge2z.v2h-cdn.com/france24/france24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="105" ch-number="105" tvg-name="CNA"  tvg-logo="https://i.postimg.cc/3JF26nxn/CNA.jpg"group-title="Dtv ipThai",CNA
+https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/W435G8Rk/NHK.jpg"group-title="Dtv ipThai",NHK WORLD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-chno="107" ch-number="107"  tvg-name="CCTV4"  tvg-logo="https://dookeela.live/uploads/1705785371.png"group-title="Dtv ipThai",CCTV4
+https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="216" ch-number="216"  tvg-name="BOOM ANIME"  tvg-logo="https://i.postimg.cc/0QtBpDzC/Am.jpg"group-title="Dtv ipThai",BOOM ANIME
+https://edge6a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="210" ch-number="105"  tvg-name="Al Jazeera EN"  tvg-logo="https://i.postimg.cc/05W0rNQC/al.jpg"group-title="Dtv ipThai", Al Jazeera EN
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+
+.....
+
+
+
+
+#EXTINF:-1 tvg-chno="303" ch-number="333"  tvg-name="True PremierFootball 3"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 3
 https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="304" ch-number="334"  tvg-name="True PremierFootball 4"tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league-1.png"group-title="Dtv ipThai",True PremierFootball 4 
