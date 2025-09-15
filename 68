@@ -1,5 +1,8 @@
 
 #EXTM3U
+
+#EXTINF:-1 tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
+https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/TV3_Logo.png" group-title="Entertainment",TV3
 http://example.com/stream/tv3.m3u8
 #EXTINF:-1 group-title="YOYO TV" tvg-logo="https://l.top4top.io/p_31985tia01.png",DISCLAMER
